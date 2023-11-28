@@ -39,90 +39,17 @@
 
 ## 搬瓦工价格
 
-Plan Comparison
-SSD RAID-10 Space
-ECC RAM
-Bandwidth
-CPU
-Network
-Location
-Virtualization
-Instant Setup
-30 Day Moneyback New Acct.
-Price
-Order
+|        计划比较     | 20G KVM VPS      | 40G KVM VPS      | 80G KVM VPS      | 160G KVM VPS     | 320G KVM VPS     | 480G KVM VPS     |
+|-------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+| SSD RAID-10 Space | 20 GB SSD        | 40 GB SSD        | 80 GB SSD        | 160 GB SSD       | 320 GB SSD       | 480GB SSD        |
+| ECC RAM           | 1024 MB          | 2 GB             | 4 GB             | 8 GB             | 16 GB            | 24 GB            |
+| Bandwidth         | 1 TB             | 2 TB             | 3 TB             | 4 TB             | 5 TB             | 6 TB             |
+| CPU               | 2x Intel Xeon    | 3x Intel Xeon    | 4x Intel Xeon    | 5x Intel Xeon    | 6x Intel Xeon    | 7x Intel Xeon    |
+| Network           | 1 Gigabit        | 1 Gigabit        | 1 Gigabit        | 1 Gigabit        | 1 Gigabit        | 1 Gigabit        |
+| Location          | Multiple         | Multiple         | Multiple         | Multiple         | Multiple         | Multiple         |
+| Virtualization    | KVM              | KVM              | KVM              | KVM              | KVM              | KVM              |
+| Instant Setup     | Yes              | Yes              | Yes              | Yes              | Yes              | Yes              |
+| 30 Day Moneyback New Acct. | Yes       | Yes              | Yes              | Yes              | Yes              | Yes              |
+| Price             | $49.99 /yr       | $99.99 /yr       | $19.99 /mo       | $39.99 /mo       | $79.99 /mo       | $119.99 /mo      |
 
-
-20G KVM VPS
-20 GB SSD
-1024 MB
-1 TB
-2x Intel Xeon
-1 Gigabit
-Multiple
-KVM
- 
- 
-$49.99 /yr
-Order
-40G KVM VPS
-40 GB SSD
-2 GB
-2 TB
-3x Intel Xeon
-1 Gigabit
-Multiple
-KVM
- 
- 
-$99.99 /yr
-Order
-80G KVM VPS
-80 GB SSD
-4 GB
-3 TB
-4x Intel Xeon
-1 Gigabit
-Multiple
-KVM
- 
- 
-$19.99 /mo
-Order
-160G KVM VPS
-160 GB SSD
-8 GB
-4 TB
-5x Intel Xeon
-1 Gigabit
-Multiple
-KVM
- 
- 
-$39.99 /mo
-Order
-320G KVM VPS
-320 GB SSD
-16 GB
-5 TB
-6x Intel Xeon
-1 Gigabit
-Multiple
-KVM
- 
- 
-$79.99 /mo
-Order
-480G KVM VPS
-480GB SSD
-24 GB
-6 TB
-7x Intel Xeon
-1 Gigabit
-Multiple
-KVM
- 
- 
-$119.99 /mo
-Order
 
