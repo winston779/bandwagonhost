@@ -1,6 +1,10 @@
 # 搬瓦工官网地址
 
-最新地址：[bwh88.net](https://bwh88.net/aff.php?aff=73454)  [bwh81.net](https://bwh81.net/aff.php?aff=73454)
+最新地址：
+
+[bwh88.net](https://bwh88.net/aff.php?aff=73454)  
+
+[bwh81.net](https://bwh81.net/aff.php?aff=73454)
 
 ## 搬瓦工介绍
 
@@ -14,6 +18,14 @@
 
 ## 搬瓦工优惠码
 
+|优惠码|折扣比例|
+|----|----|
+|ireadtheterms8|	4.4%|
+|BWHWYWWYVY|	5.96%|
+|BWHZCCWCCZ|	5.8%|
+
+到期时间 2023年11月底
+
 ## 特色
 
 * 即时设置
@@ -24,4 +36,93 @@
 * 24/7 服务监控，我们的员工全天候监控所有服务和网络，采取主动措施防止硬件或网络问题。
 * 高级网络，所有计划包括1千兆上行连接。
 * 自有设备，在硬件设备方面，我们不依赖第三方。我们还拥有自己的IP地址空间。
+
+## 搬瓦工价格
+
+Plan Comparison
+SSD RAID-10 Space
+ECC RAM
+Bandwidth
+CPU
+Network
+Location
+Virtualization
+Instant Setup
+30 Day Moneyback New Acct.
+Price
+Order
+
+
+20G KVM VPS
+20 GB SSD
+1024 MB
+1 TB
+2x Intel Xeon
+1 Gigabit
+Multiple
+KVM
+ 
+ 
+$49.99 /yr
+Order
+40G KVM VPS
+40 GB SSD
+2 GB
+2 TB
+3x Intel Xeon
+1 Gigabit
+Multiple
+KVM
+ 
+ 
+$99.99 /yr
+Order
+80G KVM VPS
+80 GB SSD
+4 GB
+3 TB
+4x Intel Xeon
+1 Gigabit
+Multiple
+KVM
+ 
+ 
+$19.99 /mo
+Order
+160G KVM VPS
+160 GB SSD
+8 GB
+4 TB
+5x Intel Xeon
+1 Gigabit
+Multiple
+KVM
+ 
+ 
+$39.99 /mo
+Order
+320G KVM VPS
+320 GB SSD
+16 GB
+5 TB
+6x Intel Xeon
+1 Gigabit
+Multiple
+KVM
+ 
+ 
+$79.99 /mo
+Order
+480G KVM VPS
+480GB SSD
+24 GB
+6 TB
+7x Intel Xeon
+1 Gigabit
+Multiple
+KVM
+ 
+ 
+$119.99 /mo
+Order
 
