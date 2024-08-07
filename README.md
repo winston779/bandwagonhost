@@ -18,11 +18,11 @@
 
 |优惠码|折扣比例|
 |----|----|
+|BWHCGLUKKB|	6.78%|
+|ireallyreadtheterms8|	5.5%|
 |ireadtheterms8|	4.4%|
-|BWHWYWWYVY|	5.96%|
-|BWHZCCWCCZ|	5.8%|
 
-到期时间 2023年11月底
+2024年6月18日更新
 
 ## 特色
 
