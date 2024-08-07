@@ -2,8 +2,6 @@
 
 最新地址：
 
-[bwh88.net](https://bwh88.net/aff.php?aff=73454)  
-
 [bwh81.net](https://bwh81.net/aff.php?aff=73454)
 
 ## 搬瓦工介绍
